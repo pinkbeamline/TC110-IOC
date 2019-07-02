@@ -1,0 +1,3 @@
+function(streaminput)
+function(streaminputinit)
+function(readaddr)

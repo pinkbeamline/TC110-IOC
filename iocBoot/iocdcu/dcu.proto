@@ -1,0 +1,5 @@
+Terminator = CR;
+
+getstream {
+  in "%s";
+  }
